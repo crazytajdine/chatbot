@@ -1,21 +1,21 @@
 [
     {
-        "tag": "greeting",
         "urmsg": "hello there",
         "mymsg": "hi ,how can i help you today."
     },
     {
-        "tag": "checking",
+        "urmsg": "quit",
+        "mymsg": "see you next time."
+    },
+    {
         "urmsg": "how are you ",
         "mymsg": "i am doing great ,what about you ?"
     },
     {
-        "tag": "reasure",
         "urmsg": "i am doing great ,thank you ",
         "mymsg": "how can i help you today"
     },
     {
-        "tag": "price",
         "urmsg": "how much for one?",
         "mymsg": "2 dh for one "
     }
